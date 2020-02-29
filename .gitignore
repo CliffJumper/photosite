@@ -146,3 +146,8 @@ override.tf.json
 # example: *tfplan*
 
 # End of https://www.gitignore.io/api/node,code,terraform
+
+*.zip
+*.pdf
+*.dot
+*.ps
